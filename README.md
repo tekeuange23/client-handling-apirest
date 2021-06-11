@@ -3,23 +3,23 @@ Freelance Spring-Boot Api to handle Clients management including crud operation,
 
 
 ## GET
-`retrieve all client` [http://localhost:8080/api/clients](#get-1billingretrieve-billing-datajson) <br/>
+`retrieve all client` [http://localhost:8080/api/clients](#http://localhost:8080/api/clients) <br/>
 
 ## POST
-`add new client` [http://localhost:8080/api/clients](#post-1billingstart-trialjson) <br/>
+`add new client` [http://localhost:8080/api/clients](#http://localhost:8080/api/clients) <br/>
 
 ## PUT
-`update an existing client` [http://localhost:8080/api/clients/{clientNumberID}](#post-1billingstart-trialjson) <br/>
+`update an existing client` [http://localhost:8080/api/clients/{clientNumberID}](#http://localhost:8080/api/clients/{clientNumberID}) <br/>
 
 
 ## GET
-`Search by ID Number` [http://localhost:8080/api/clients/{clientNumberID}](#get-1billingretrieve-billing-datajson) <br/>
+`Search by ID Number` [http://localhost:8080/api/clients/{clientNumberID}](#http://localhost:8080/api/clients/{clientNumberID}) <br/>
 
 ## GET
-`Search by Mobile Number` [http://localhost:8080/api/clients/phone/{mobileNumber}](#get-1billingretrieve-billing-datajson) <br/>
+`Search by Mobile Number` [http://localhost:8080/api/clients/phone/{mobileNumber}](#http://localhost:8080/api/clients/phone/{mobileNumber}) <br/>
 
 ## GET
-`Search by FirstName` [http://localhost:8080/api/clients/name/{firstName}](#get-1billingretrieve-billing-datajson) <br/>
+`Search by FirstName` [http://localhost:8080/api/clients/name/{firstName}](#http://localhost:8080/api/clients/name/{firstName}) <br/>
 ___
 
 ### GET http://localhost:8080/api/clients
